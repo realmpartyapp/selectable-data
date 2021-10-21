@@ -1,13 +1,13 @@
-LGBTQ
-Girls' Night
-Boys' Night
-Freshers
-Non-alcoholic
-Movie Night
-Games Night
-Sports Night
-Chill Vibes
-Imperial
-KCL
-UCL
-LSE
+LSE,1
+UCL,1
+KCL,1
+Imperial,1
+Chill Vibes,2
+Sports Night,2
+Games Night,2
+Movie Night,2
+Non-alcoholic,2
+Freshers,2
+Boys' Night,3
+Girls' Night,3
+LGBTQ,3
